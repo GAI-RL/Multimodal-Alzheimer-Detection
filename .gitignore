@@ -16,3 +16,4 @@ data/
 *.mp3
 .env
 .git-credentials
+notebook_code.txt
